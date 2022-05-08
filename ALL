@@ -16,6 +16,11 @@ List of Practicals for Mock Exam
  
  
 /*---------------Write an Embedded C program to add  two numbers.------------*/
+/*---------------Write an Embedded C program to add  two numbers.------------*/
+/*---------------Write an Embedded C program to add  two numbers.------------*/
+/*---------------Write an Embedded C program to add  two numbers.------------*/
+/*---------------Write an Embedded C program to add  two numbers.------------*/
+
  
 #include <stdio.h>
 #include <stdlib.h>
@@ -354,6 +359,11 @@ CCPR1L = 0x3D;
  ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
  ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /*-----------------------Write simple program using  Arduino  blinking  2 LEDs  using           different  delay.-------------------------*/
+/*-----------------------Write simple program using  Arduino  blinking  2 LEDs  using           different  delay.-------------------------*/
+/*-----------------------Write simple program using  Arduino  blinking  2 LEDs  using           different  delay.-------------------------*/
+/*-----------------------Write simple program using  Arduino  blinking  2 LEDs  using           different  delay.-------------------------*/
+/*-----------------------Write simple program using  Arduino  blinking  2 LEDs  using           different  delay.-------------------------*/
+/*-----------------------Write simple program using  Arduino  blinking  2 LEDs  using           different  delay.-------------------------*/
  
  
 void setup()
@@ -380,6 +390,12 @@ void loop()
  ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
  ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
  
+ /*---------------Write simple program using  Arduino for displaying temperature using multimeter blink  LED and on buzzer after specific temperature range .---*/
+ /*---------------Write simple program using  Arduino for displaying temperature using multimeter blink  LED and on buzzer after specific temperature range .---*/
+ /*---------------Write simple program using  Arduino for displaying temperature using multimeter blink  LED and on buzzer after specific temperature range .---*/
+ /*---------------Write simple program using  Arduino for displaying temperature using multimeter blink  LED and on buzzer after specific temperature range .---*/
+ /*---------------Write simple program using  Arduino for displaying temperature using multimeter blink  LED and on buzzer after specific temperature range .---*/
+ /*---------------Write simple program using  Arduino for displaying temperature using multimeter blink  LED and on buzzer after specific temperature range .---*/
  /*---------------Write simple program using  Arduino for displaying temperature using multimeter blink  LED and on buzzer after specific temperature range .---*/
  
 void setup()
