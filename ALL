@@ -107,15 +107,15 @@ for(i=0; i<=9; i++)
 void main(void) 
 {
     int i, j, temp;
-    int num_arr[] = {10,2,5,1,6};
+    int num_arr[] = {8,2,10,12};
     for(i=0; i<=4; i++)
    {                 	
         for(j=i+1; j<=4; j++)
         {                     
-               if (num_arr[i] > num_asc[j])
+               if (num_arr[i] > num_arr[j])
                {                
-                       temp = num_asc[i];
-                       num_arr[i] =num_asc[j];
+                       temp = num_arr[i];
+                       num_arr[i] =num_arr[j];
                        num_arr[j]= temp;
                }
          }
